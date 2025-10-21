@@ -4,5 +4,6 @@ public interface TestInter {
 	
 	String getHello();
 int getInt();
+double getd();
 
 }

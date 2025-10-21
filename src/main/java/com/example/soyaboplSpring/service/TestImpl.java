@@ -17,6 +17,12 @@ public class TestImpl  implements TestInter{
 		return 1;
 	}
 
+	@Override
+	public double getd() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 	
 	
 	
