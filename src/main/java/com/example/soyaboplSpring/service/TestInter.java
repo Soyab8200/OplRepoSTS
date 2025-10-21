@@ -3,6 +3,6 @@ package com.example.soyaboplSpring.service;
 public interface TestInter {
 	
 	String getHello();
-	String getyoy();
+	
 
 }
