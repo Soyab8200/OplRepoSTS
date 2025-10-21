@@ -7,6 +7,7 @@ public interface TestInter {
 	//ddd
 //frfrfr
 	//frrfr
+	//gtgt
 int getInt();
 double getd();
 
