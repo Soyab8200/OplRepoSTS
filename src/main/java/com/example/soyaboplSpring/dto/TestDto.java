@@ -8,5 +8,9 @@ private int id;
 private boolean lol;
   private double lpl;
   private int hoh;
+
   private int jojojoj;
+
+  private String jojo;
+
 }
