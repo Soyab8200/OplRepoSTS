@@ -4,7 +4,8 @@ public class TestDto {
 private int id;
   private int hu;
   private int kokok;
-public int  lololololo;
+
+private boolean lol;
   private double lpl;
   private int hoh;
   
