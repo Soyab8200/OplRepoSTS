@@ -8,6 +8,8 @@ public interface TestInter {
 //frfrfr
 	//frrfr
 	//gtgt
+	
+//fffffff	frfr
 int getInt();
 double getd();
 
