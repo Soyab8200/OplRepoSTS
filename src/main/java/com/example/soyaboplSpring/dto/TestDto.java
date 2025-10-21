@@ -5,12 +5,12 @@ private int id;
   private int hu;
   private int kokok;
 
-private boolean lol;
-  private double lpl;
-  private int hoh;
+private Integer sss;
+  private char jj;
+  private String www;
+private String hihihll;
+  private Double tdtdt;
 
-  private int jojojoj;
-
-  private String jojo;
+  private Integer nmnm;
 
 }
