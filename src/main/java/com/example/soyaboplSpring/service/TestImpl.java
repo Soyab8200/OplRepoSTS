@@ -10,6 +10,14 @@ public class TestImpl  implements TestInter{
 		
 		return "Hello";
 	}
+
+	@Override
+	public int getInt() {
+		// TODO Auto-generated method stub
+		return 1;
+	}
+
+	
 	
 	
 	
