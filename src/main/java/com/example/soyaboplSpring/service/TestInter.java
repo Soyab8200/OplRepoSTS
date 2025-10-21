@@ -6,6 +6,7 @@ public interface TestInter {
 //hyhyh
 	//ddd
 //frfrfr
+	//frrfr
 int getInt();
 double getd();
 
