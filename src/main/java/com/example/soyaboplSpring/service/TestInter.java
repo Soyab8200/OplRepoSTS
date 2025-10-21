@@ -4,7 +4,7 @@ public interface TestInter {
 	
 	String getHello();
 
-	
+	//ddd
 
 int getInt();
 double getd();
